@@ -13,12 +13,12 @@ Desarrollado y mantenido por el área de ciberseguridad y protección de infraes
 
 Esta utilidad de consola evalúa las directivas de seguridad fundamentales del navegador y del servidor web:
 
-* **Strict-Transport-Security (HSTS):** Enforces HTTPS encryption and prevents SSL-stripping and downgrade attacks.
-* **Content-Security-Policy (CSP):** Mitigates Cross-Site Scripting (XSS) and unauthorized resource execution.
-* **X-Frame-Options:** Prevents clickjacking by controlling framing and iframe permissions.
-* **X-Content-Type-Options:** Prevents MIME-sniffing vulnerabilities.
-* **Referrer-Policy:** Protects sensitive URL path data from cross-origin disclosure.
-* **Permissions-Policy:** Enforces least-privilege control for browser hardware APIs.
+* **Strict-Transport-Security (HSTS):** Fuerza conexiones cifradas bajo HTTPS e impide ataques de degradación e interceptación SSL.
+* **Content-Security-Policy (CSP):** Mitiga ataques de inyección de scripts (XSS) y restringe los orígenes autorizados para la carga de recursos.
+* **X-Frame-Options:** Previene ataques de clickjacking regulando los permisos de incrustación en frames e iframes.
+* **X-Content-Type-Options:** Impide la ejecución indebida de archivos debida a vulnerabilidades de MIME-sniffing.
+* **Referrer-Policy:** Protege datos sensibles en URLs de referencia contra fugas hacia dominios de terceros.
+* **Permissions-Policy:** Aplica el principio de mínimo privilegio sobre APIs de hardware del navegador (cámara, micrófono y geolocalización).
 
 ---
 
@@ -27,7 +27,7 @@ Esta utilidad de consola evalúa las directivas de seguridad fundamentales del n
 Ejecute la herramienta directamente mediante Python sin necesidad de instalar librerías externas:
 
 ```bash
-python scanner.py example.com
+python scanner.py ejemplo.es
 ```
 
 ---
