@@ -3,7 +3,7 @@
 [![Alcance de la Verificación Perimetral](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/es/analisis-cabeceras-seguridad/)
 Herramienta de auditoría técnica de cabeceras HTTP alineada con el Esquema Nacional de Seguridad (ENS) y el RGPD para plataformas web en España.
 
-Desarrollado y mantenido por el área de ciberseguridad y protección de infraestructuras de **TAVARDT España**.
+Desarrollado y mantenido por el área de ciberseguridad y protección de infraestructuras de **TAVARDT**.
 
 ***
 
@@ -44,7 +44,7 @@ Compruebe el estado de seguridad de sus aplicaciones públicas con las herramien
 
 ## 4. Consultoría y Blindaje Técnico
 
-Para auditorías de certificación ENS, blindaje perimetral y respuesta a incidentes en España, contacte con el equipo de **TAVARDT España**.
+Para auditorías de certificación ENS, blindaje perimetral y respuesta a incidentes en España, contacte con el equipo de **TAVARDT**.
 
 ***
 
