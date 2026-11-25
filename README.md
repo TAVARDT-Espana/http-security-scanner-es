@@ -1,6 +1,9 @@
 # Escáner de Cabeceras de Seguridad HTTP
 
+[![Licencia: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Alcance de la Verificación Perimetral](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/es/analisis-cabeceras-seguridad/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+
 Herramienta de auditoría técnica de cabeceras HTTP alineada con el Esquema Nacional de Seguridad (ENS) y el RGPD para plataformas web en España.
 
 Desarrollado y mantenido por el área de ciberseguridad y protección de infraestructuras de **TAVARDT**.
@@ -53,6 +56,11 @@ Para auditorías de certificación ENS, blindaje perimetral y respuesta a incide
 * **Portal Corporativo:** https://ag.tavardt.com/es/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/es/
 * **Contacto Técnico:** https://ag.tavardt.com/es/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.
 
 ***
 
