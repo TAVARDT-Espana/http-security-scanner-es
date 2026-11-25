@@ -1,12 +1,10 @@
 # Escáner de Cabeceras de Seguridad HTTP
 
-[![Licencia: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Alcance de la Verificación Perimetral](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/es/analisis-cabeceras-seguridad/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Herramienta de auditoría técnica de cabeceras HTTP alineada con el Esquema Nacional de Seguridad (ENS) y el RGPD para plataformas web en España.
-
-Desarrollado y mantenido por el área de ciberseguridad y protección de infraestructuras de **TAVARDT**.
 
 ***
 
@@ -37,7 +35,6 @@ python scanner.py ejemplo.es
 
 Compruebe el estado de seguridad de sus aplicaciones públicas con las herramientas de TAVARDT:
 
-* Comprobador de Cabeceras de Seguridad
 * [Validador de Consent Mode v2 y RGPD](https://tools.tavardt.com/es/validador-consent-mode-v2-rgpd/)
 * [Verificador DMARC y Correo Electrónico](https://tools.tavardt.com/es/verificador-dmarc-correo/)
 * [Escáner de Archivos Expuestos](https://tools.tavardt.com/es/escaneo-archivos-expuestos/)
@@ -60,7 +57,7 @@ Para auditorías de certificación ENS, blindaje perimetral y respuesta a incide
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
